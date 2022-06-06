@@ -1,0 +1,35 @@
+
+{
+    "blogs": [ 
+        {
+            "title":"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones ", 
+            "id": 1, 
+            "description":"Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.", 
+            "author":"James Clear"
+        },
+        {
+            "title":"I Love You to the Moon and Back", 
+            "id": 2, 
+            "description":"Show a child just how strong your love is every minute of the day! Features a 'To' and 'From' personalization page, making this sweet offering an ideal gift for baby showers, birthdays, and new parents. ", 
+            "author":"Amelia Hepworth"
+        },
+        {
+            "title":"The Alchemist", 
+            "id": 3, 
+            "description":" A Fable About Following Your Dream ", 
+            "author":"Paulo Coelho"
+        },
+        {
+            "title":"1Q84", 
+            "id":4,
+            "description":"A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwell's, 1Q84 is Haruki Murakami's most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers.", 
+            "author":"Haruki Murakami"
+        },
+        {
+            "title":"Norwegian Wood", 
+            "id":5, 
+            "description":"Toru, a serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before. As Naoko retreats further into her own world, Toru finds himself drawn to a fiercely independent and sexually liberated young woman.",
+            "author":"Haruki Murakami"
+        }
+    ]
+}
